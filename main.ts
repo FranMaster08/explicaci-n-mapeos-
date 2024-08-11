@@ -3,8 +3,8 @@ import { VideoService } from './modules/servicios/videos.service'
 import { VideoEntity } from "./modules/entities/video.entitie";
 
 const repositorio: Array<VideoEntity> = [
-    new VideoEntity('sextape', 'xvideos'),
-    new VideoEntity('venexxolana', 'puritanas'),
+    new VideoEntity('video 1', 'url 1'),
+    new VideoEntity('video 2', 'url 2'),
 ]
 
 const main = async () => {
